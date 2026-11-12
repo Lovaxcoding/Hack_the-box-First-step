@@ -1,0 +1,5 @@
+# Dirsearch started Thu Nov 12 15:36:13 2026 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u https://management.htb/
+
+403   564B   https://management.htb/assets/
+301   178B   https://management.htb/assets    -> REDIRECTS TO: https://management.htb/assets/
+404   564B   https://management.htb/favicon.ico

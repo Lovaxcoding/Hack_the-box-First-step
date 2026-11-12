@@ -1,0 +1,57 @@
+# Dirsearch started Thu Nov 12 19:30:06 2026 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u https://cohort.htb
+
+301   178B   https://cohort.htb/api    -> REDIRECTS TO: https://cohort.htb/api/
+405    47B   https://cohort.htb/api/2/explore/
+405    47B   https://cohort.htb/api/
+405    47B   https://cohort.htb/api/2/issue/createmeta
+405    47B   https://cohort.htb/api/__swagger__/
+405    47B   https://cohort.htb/api/_swagger_/
+405    47B   https://cohort.htb/api/api-docs
+405    47B   https://cohort.htb/api/apidocs/swagger.json
+405    47B   https://cohort.htb/api/apidocs
+405    47B   https://cohort.htb/api/api
+405    47B   https://cohort.htb/api/application.wadl
+405    47B   https://cohort.htb/api/batch
+405    47B   https://cohort.htb/api/profile
+405    47B   https://cohort.htb/api/config
+405    47B   https://cohort.htb/api/jsonws
+405    47B   https://cohort.htb/api/index.html
+405    47B   https://cohort.htb/api/docs
+405    47B   https://cohort.htb/api/jsonws/invoke
+405    47B   https://cohort.htb/api/docs/
+405    47B   https://cohort.htb/api/login.json
+405    47B   https://cohort.htb/api/spec/swagger.json
+405    47B   https://cohort.htb/api/error_log
+405    47B   https://cohort.htb/api/snapshots
+405    47B   https://cohort.htb/api/swagger
+405    47B   https://cohort.htb/api/swagger-ui.html
+405    47B   https://cohort.htb/api/cask/graphql
+405    47B   https://cohort.htb/api/proxy
+405    47B   https://cohort.htb/api/package_search/v4/documentation
+405    47B   https://cohort.htb/api/swagger.json
+405    47B   https://cohort.htb/api/swagger.yaml
+405    47B   https://cohort.htb/api/swagger.yml
+405    47B   https://cohort.htb/api/swagger/static/index.html
+405    47B   https://cohort.htb/api/swagger/index.html
+405    47B   https://cohort.htb/api/swagger/ui/index
+405    47B   https://cohort.htb/api/swagger/swagger
+405    47B   https://cohort.htb/api/timelion/run
+405    47B   https://cohort.htb/api/v1
+405    47B   https://cohort.htb/api/v1/
+405    47B   https://cohort.htb/api/v1/swagger.json
+405    47B   https://cohort.htb/api/v1/swagger.yaml
+405    47B   https://cohort.htb/api/v2
+405    47B   https://cohort.htb/api/v2/
+405    47B   https://cohort.htb/api/v2/helpdesk/discover
+405    47B   https://cohort.htb/api/v2/swagger.json
+405    47B   https://cohort.htb/api/v2/swagger.yaml
+405    47B   https://cohort.htb/api/v3
+405    47B   https://cohort.htb/api/v4
+405    47B   https://cohort.htb/api/vendor/phpunit/phpunit/phpunit
+405    47B   https://cohort.htb/api/version
+405    47B   https://cohort.htb/api/whoami
+301   178B   https://cohort.htb/assets    -> REDIRECTS TO: https://cohort.htb/assets/
+403   564B   https://cohort.htb/assets/
+404   564B   https://cohort.htb/favicon.ico
+403   564B   https://cohort.htb/status
+403   564B   https://cohort.htb/status?full=true
